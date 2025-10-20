@@ -18,8 +18,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka-server:8761/eureka/
-  instance:
-    hostname: eureka-server
 
 jwt:
   secret-key: 1YaijS7kBEWidr8VIZ03bhsvUuc9sH/qh7KsY4rBogH/+zxqLKvV4w5FZDwNlhoXsPdR2kptxtwVwAxX79s4zKvfmj0YZZk/PZmMGHcm/Bo=
