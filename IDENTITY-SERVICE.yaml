@@ -24,4 +24,4 @@ eureka:
     hostname: localhost
 
 spring-cloud-bus:
-  message: "Hello Spring Cloud Bus Controller"
+  message: "Hello Spring Cloud Bus"
