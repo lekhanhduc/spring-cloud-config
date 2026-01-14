@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://${DATABASE_HOST:mysql}:${DATABASE_PORT:3306}/profiles
+    url: jdbc:mysql://${DATABASE_HOST:localhost}:${DATABASE_PORT:3306}/profiles
     username: ${DATABASE_USERNAME:root}
     password: ${DATABASE_PASSWORD:123456}
 
